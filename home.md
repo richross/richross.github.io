@@ -1,5 +1,7 @@
 ---
 permalink: /home.html
+author: 
+  twitter: rich_ross
 ---
 
 
