@@ -1,7 +1,5 @@
 theme: jekyll-theme-hacker
 title: "Stories from an Azure Developer"
-twitter: "rich_ross"
-baseurl: "/home.html"
-default: "home.html"
+twitter: rich_ross
 plugins:
   - jekyll-feed
