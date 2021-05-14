@@ -1,6 +1,6 @@
 ## Mixed Reality Resources
 
-As part of Philly Tech Week 2021, I participated in a talk on Mixed Reality.  The focus of this portion of the session was on the 'go do' steps for developers in the audience.  We've seen this great technology, hoe can they participate.
+As part of Philly Tech Week 2021, I co-presented a talk on Mixed Reality.  The focus of this portion of the session was on the 'go do' steps for developers in the audience.  We've seen this great technology, hoe can they participate.
 
 Much of the content I presented was straight from the [Mixed Reality docs](https://aka.ms/mrdocs) starting with the [Develop section](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/development?tabs=unity).  This was to show the options available for development and the possible devices available for each option. 
 
