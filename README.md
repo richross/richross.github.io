@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Mixed Reality Resources
 
-You can use the [editor on GitHub](https://github.com/richross/richross.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+As part of Philly Tech Week 2021, I participated in a talk on Mixed Reality.  The focus of this portion of the session was on the 'go do' steps for developers in the audience.  We've seen this great technology, hoe can they participate.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Much of the content I presented was straight from the [Mixed Reality docs](https://aka.ms/mrdocs) starting with the [Develop section](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/development?tabs=unity).  This was to show the options available for development and the possible devices available for each option. 
 
-### Markdown
+For this session, I did a basic intro [tutorial](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-base-02?tabs=winxr) to start the understanding of Unity, Mixed Reality ToolKit (MRTK) and interactions.  A list of all available tutorials is [here](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Additional learning content is available on [Learn](https://aka.ms/learn) including modules specifically for [MRTK](https://docs.microsoft.com/en-us/learn/browse/?levels=beginner&products=mrtk)
 
-```markdown
-Syntax highlighted code block
+Videos on Mixed Reality are available on [Channel9](https://channel9.msdn.com/Shows/Mixed-Reality).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/richross/richross.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Don't forget to register for [//build](https://build.microsoft.com) conference, May 25 - 27, to see what is coming for Mixed Reality.  
