@@ -8,7 +8,7 @@ author:
 ## This is just the home page.
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.drafts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
