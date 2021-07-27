@@ -1,5 +1,6 @@
 ---
 permalink: /index.html
+layout: post
 author: 
   twitter: rich_ross
 ---
