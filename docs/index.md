@@ -1,7 +1,6 @@
 ---
 permalink: /index.html
 layout: default
-title: Home Page
 author: 
   twitter: rich_ross
 ---
