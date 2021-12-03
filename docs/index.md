@@ -1,11 +1,9 @@
 ---
-permalink: /home.html
+permalink: /index.html
+layout: default
 author: 
   twitter: rich_ross
 ---
-
-
-## This is just the home page.
 
 <ul>
   {% for post in site.posts %}

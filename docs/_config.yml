@@ -1,0 +1,13 @@
+remote_theme: pages-themes/cayman@v0.2.0
+title: "Stories from an Azure Developer"
+twitter_username: rich_ross
+github_username: richross
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
