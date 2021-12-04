@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Audio Configuration
 ---
 ## {{page.title}}!
