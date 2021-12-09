@@ -9,5 +9,3 @@ For this session, I did a basic intro [tutorial](https://docs.microsoft.com/en-u
 Additional learning content is available on [Learn](https://aka.ms/learn) including modules specifically for [MRTK](https://docs.microsoft.com/en-us/learn/browse/?levels=beginner&products=mrtk)
 
 Videos on Mixed Reality are available on [Channel9](https://channel9.msdn.com/Shows/Mixed-Reality).
-
-Don't forget to register for [//build](https://build.microsoft.com) conference, May 25 - 27, to see what is coming for Mixed Reality.  
