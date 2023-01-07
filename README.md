@@ -9,4 +9,4 @@ For this session, I did a basic intro [tutorial](https://docs.microsoft.com/en-u
 Additional learning content is available on [Learn](https://aka.ms/learn) including modules specifically for [MRTK](https://docs.microsoft.com/en-us/learn/browse/?levels=beginner&products=mrtk)
 
 Videos on Mixed Reality are available on [Channel9](https://channel9.msdn.com/Shows/Mixed-Reality).
-this is a change. This is another change from the container.
+this is a change. This is another change from the container.  changes from vscode.
