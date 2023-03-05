@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: Custom Code Connector Project
+author: Rich Ross
 ---
 ## {{page.title}}
 Microsoft Power Platform represents the power of 'low-code' solution development for the business or citizen developer.  The Custom Connector feature is one of the areas in the platform where pro-developers may initially provide their skills and experience to enable access to line of business (LOB) data in the Power Platform.  The process of creating a Custom Connector is listed in the documentation [here](https://docs.microsoft.com/en-us/connectors/custom-connectors/define-blank).
