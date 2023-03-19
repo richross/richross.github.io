@@ -4,7 +4,7 @@ title: Audio Configuration
 author: Rich Ross
 excerpt_separator: <!--more-->
 ---
-## {{page.title}}
+
 This is a long overdue post.  It is a reference post for audio setup for virtual meetings and podcast/videos.  
 
 The story really starts back in 2020 at the start the pandemic when almost everyone was forced to work from home.  As part of that quick effort, I went from in-person meetings to virtual sessions over Teams with customers.  This was a huge shift for everyone involved.  I had a good amount of experience with conducting virtual sessions from broadcasting a weekly show with some friends on twitch and YouTube.  The important component in moving to this medium is not video, but providing high-quality audio.  How you sound goes a long way toward keeping the participants engaged in the discussion.
