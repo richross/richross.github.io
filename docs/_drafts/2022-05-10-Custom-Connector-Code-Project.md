@@ -1,7 +1,5 @@
 ---
-layout: posts
 title: Custom Code Connector Project
-author: Rich Ross
 excerpt_separator: <!--more-->
 ---
 ## {{page.title}}

@@ -1,7 +1,5 @@
 ---
-layout: posts
 title: Another Reason to Use Devcontainers!
-author: Rich Ross
 excerpt_separator: <!--more-->
 ---
 

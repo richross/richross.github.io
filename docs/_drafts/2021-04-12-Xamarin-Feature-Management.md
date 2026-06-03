@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Xamarin Feature Management with Azure App Configuration
 ---
 ## {{page.title}}!

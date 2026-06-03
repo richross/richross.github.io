@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Azure ARM Template apiVersion
 ---
 ## {{page.title}}!

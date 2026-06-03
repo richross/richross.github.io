@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Accessing Windows Clipboard Collection
 ---
 ## {{page.title}}!
