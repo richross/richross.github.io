@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Getting JSON Properties from Azure CLI
 ---
 ## {{page.title}}!

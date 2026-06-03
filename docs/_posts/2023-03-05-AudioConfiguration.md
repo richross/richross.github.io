@@ -1,7 +1,5 @@
 ---
-layout: posts
 title: Audio Configuration
-author: Rich Ross
 excerpt_separator: <!--more-->
 ---
 

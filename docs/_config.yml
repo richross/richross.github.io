@@ -1,11 +1,46 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+minimal_mistakes_skin: "dark"
+
 title: "Stories from an Azure Developer"
+description: "Musings and lessons from an Azure developer in the wild."
+url: "https://richross.github.io"
+baseurl: ""
+
 twitter_username: rich_ross
 github_username: richross
-description: "Stories from an Azure Developer"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://richross.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+author:
+  name: "Rich Ross"
+  bio: "Azure developer, Mixed Reality enthusiast, and audio geek."
+  location: "Philadelphia, PA"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rich_ross"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/richross"
 
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
