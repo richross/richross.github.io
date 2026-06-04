@@ -6,17 +6,16 @@ description: "Musings and lessons from an Azure developer in the wild."
 url: "https://richross.github.io"
 baseurl: ""
 
-twitter_username: rich_ross
 github_username: richross
 
 author:
   name: "Rich Ross"
-  bio: "Azure developer, Mixed Reality enthusiast, and audio geek."
+  bio: "Cloud developer at the intersection of Azure, AI agents, and GitHub Copilot."
   location: "Philadelphia, PA"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rich_ross"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/richross.dev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/richross"
